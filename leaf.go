@@ -1,11 +1,11 @@
 package leaf
 
 import (
-	"github.com/name5566/leaf/cluster"
-	"github.com/name5566/leaf/conf"
-	"github.com/name5566/leaf/console"
-	"github.com/name5566/leaf/log"
-	"github.com/name5566/leaf/module"
+	"github.com/joyant/leaf/cluster"
+	"github.com/joyant/leaf/conf"
+	"github.com/joyant/leaf/console"
+	"github.com/joyant/leaf/log"
+	"github.com/joyant/leaf/module"
 	"os"
 	"os/signal"
 )
